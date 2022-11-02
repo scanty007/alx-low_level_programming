@@ -1,1 +1,1 @@
-My first commit
+Even more array, pointers and strings
